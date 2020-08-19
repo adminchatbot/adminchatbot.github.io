@@ -929,7 +929,11 @@ h1.page-header {
 	overflow: scroll;
 }
 
-
+.logo {
+  padding: 0px 0;
+  height: 210px;
+  text-align: center;
+}
 
 
 
