@@ -935,7 +935,12 @@ h1.page-header {
   text-align: center;
 }
 
-
+.scoll {
+    width: auto;
+    height: 500px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
 
 
 
